@@ -28,3 +28,11 @@ int main()
 
     return 0;
 }
+OUTPUT
+Enter the size of array: 4
+Enter the key: 10
+20 
+30
+50
+10
+Key is found
